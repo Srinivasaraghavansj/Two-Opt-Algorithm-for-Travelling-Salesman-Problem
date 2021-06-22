@@ -1,0 +1,31 @@
+
+
+
+
+
+BestMove: [70, 364]  Tour Cost: 330542381.1432561
+BestMove: [130, 419]  Tour Cost: 328770003.8881872
+BestMove: [503, 678]  Tour Cost: 327028392.86993796
+BestMove: [501, 800]  Tour Cost: 325331493.96056026
+BestMove: [44, 799]  Tour Cost: 323611104.57242197
+BestMove: [118, 721]  Tour Cost: 321916350.1633006
+BestMove: [718, 821]  Tour Cost: 320240926.9928632
+BestMove: [303, 583]  Tour Cost: 318565628.6965915
+BestMove: [74, 223]  Tour Cost: 316895478.62217
+BestMove: [282, 702]  Tour Cost: 315246710.8539221
+BestMove: [42, 82]  Tour Cost: 313599886.287645
+BestMove: [102, 358]  Tour Cost: 311978526.7139245
+BestMove: [9, 124]  Tour Cost: 310351677.6408113
+BestMove: [333, 589]  Tour Cost: 308750260.41022396
+BestMove: [20, 444]  Tour Cost: 307153521.56419516
+BestMove: [269, 651]  Tour Cost: 305566070.8023347
+BestMove: [96, 426]  Tour Cost: 303972414.50667006
+BestMove: [666, 830]  Tour Cost: 302394583.3513376
+BestMove: [124, 160]  Tour Cost: 300828473.92184263
+BestMove: [285, 713]  Tour Cost: 299282624.3843531
+BestMove: [41, 831]  Tour Cost: 297746291.0268114
+BestMove: [288, 579]  Tour Cost: 296263028.42018193
+BestMove: [609, 732]  Tour Cost: 294801142.6002681
+BestMove: [184, 783]  Tour Cost: 293371549.8304112
+BestMove: [123, 761]  Tour Cost: 291973758.9791804
+BestMove: [706, 733]  Tour Cost: 290603806.55383426
